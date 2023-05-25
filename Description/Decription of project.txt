@@ -1,0 +1,50 @@
+Project type: Online food delivery system
+
+
+Project Name: FoodoraEats Online Food Delivery
+
+
+Project Functionalities:  -> .h indicate it is a header file
+
+1.intro_design(.h):
+	
+	-It prints the name of the project and a random quotation and little design of stars
+
+2.sigup(.h):
+
+	-It is used to create account by entering firstname, lastname, email id, password and confirmpassword.
+
+3.login(.h)
+	
+	-It is used to login to the account created above by entering email id and password with case sensitive.
+
+4.tomato(.h)
+
+	-It is a header file used to print names of the items which are in FoodoraEats.
+
+5.items(.h)
+
+	-It is used to print what items user want and the user selects the items here.
+
+***** All the above header files consist of many sub functionalities.
+
+
+*****All user file data and login infomation is stored in same folder in whcih the code files stored.
+
+
+
+Contribution of this project:
+
+intro_design and some code of login and signup
+
+
+some code of login and signup
+
+ 
+some code in items and gathering food items
+
+
+All credit ideas goes to B182081
+
+
+------------------------------T H E  E N D-------------------------------------
